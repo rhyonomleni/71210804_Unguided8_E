@@ -1,0 +1,16 @@
+if i=0 atau i=1 then
+
+tampilkan “fibonacci(i)=i”
+
+else
+
+while i>1 dan i=n do
+
+fibonacci(i)=fibonacci(i-1)+fibonacci(i-2)
+
+tampilkan fibonacci(i)
+
+i=i+1
+
+end
+
