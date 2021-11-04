@@ -1,0 +1,6 @@
+Gelas yang akan terisi penuh duluan adalah gelas nomor 2. 
+Pertama, air akan mengisi gelas nomor 4. 
+Lalu air akan mengalir ke gelas nomor 2 karena pipa yang mengarah ke gelas nomor 2 lebih rendah daripada pipa yang mengarah ke gelas nomor 6.
+Kemudian di pipa menuju gelas nomor 1 tertutup, dan pipa menuju gelas nomor 3 tertutup di ujung pipa.
+Jadi, gelas yang akan terisi lebih dulu adalah gelas nomor 2.
+
